@@ -3,9 +3,9 @@ import logging
 from . import spark_api
 
 # 以下密钥信息从控制台获取
-appid = "9789e5ff"  # 填写控制台中获取的 APPID 信息
-api_secret = "ZGVhMDViZDhmMzQxZTM2ZTkyNmFiMDEz"  # 填写控制台中获取的 APISecret 信息
-api_key = "eb827d08a594e931bb575a661ba712f9"  # 填写控制台中获取的 APIKey 信息
+appid = "xxxxx"  # 填写控制台中获取的 APPID 信息
+api_secret = "xxx"  # 填写控制台中获取的 APISecret 信息
+api_key = "xxx"  # 填写控制台中获取的 APIKey 信息
 
 # 用于配置大模型版本，默认“general/generalv2”
 domain = "generalv2"  # v2.0版本
