@@ -6,10 +6,10 @@ from tencentcloud.common.profile.client_profile import ClientProfile
 from tencentcloud.common.profile.http_profile import HttpProfile
 from tencentcloud.sms.v20210111 import sms_client, models
 
-sms_sdk_app_id = "1400876893"
-template_id = "2026502"
-secret_id = "AKID0vwv21pRr9LQQURFEINGC675xnZBZkhQ"
-secret_key = "e6LNMG1hnjbCdsy0vmXAeyLgt4KTRE1s"
+sms_sdk_app_id = "xxx"
+template_id = "2xxxx2"
+secret_id = "Axxxx"
+secret_key = "exxxxxx"
 
 
 def send_template_sms(phone_number, template_params):
